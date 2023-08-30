@@ -1,3 +1,4 @@
 # firstrepo
 Amogh Reddy Nalla
-622, walnut North St.
+Gangasthan phase-2
+Nizamabad.
